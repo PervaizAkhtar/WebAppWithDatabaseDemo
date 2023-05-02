@@ -1,7 +1,7 @@
 trigger: 'none' # will disable CI builds entirely
 
 pool:
-  vmImage: 'local'
+  vmImage: 'ubuntu-latest'
     
 variables:
   BuildConfiguration: release
