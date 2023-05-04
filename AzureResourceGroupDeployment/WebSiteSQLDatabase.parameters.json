@@ -3,22 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "houssemdellai-service-plan"
+      "value": "B1"
     },
     "administratorLogin": {
-      "value": "houssem"
-    },
-    "administratorLoginPassword": {
-      "value": "@Aa123456"
+      "value": "pervaiz"
     },
     "databaseName": {
-      "value": "EmployeesDB"
+      "value": "CatalogDb"
     },
-    "webSiteName": {
-      "value": "houssemdellai-webapp"
-    },
-    "sqlserverName": {
-      "value": "houssemdellai-sql"
+    "skuName": {
+      "value": "B1"
     }
   }
 }
